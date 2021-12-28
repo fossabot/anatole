@@ -1,4 +1,5 @@
 # Anatole ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/ee7a5df4-b944-4e03-853d-39219c96d484/deploy-status)](https://alexbilz.com/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJackywithaWhiteDog%2Fanatole.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJackywithaWhiteDog%2Fanatole?ref=badge_shield)
 
 Anatole is a beautiful minimalist two-column [hugo](https://gohugo.io/) theme based on farbox-theme-Anatole.
 
@@ -640,6 +641,9 @@ Please note that only "## H2 Headings" and "### H3 Headings" will appear in the 
 ## License
 
 Anatole is licensed under the [MIT license](https://github.com/lxndrblz/anatole/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJackywithaWhiteDog%2Fanatole.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJackywithaWhiteDog%2Fanatole?ref=badge_large)
 
 ## Maintenance
 
